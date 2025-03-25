@@ -5,3 +5,7 @@ c = a+ b
 
 print(c)
 print(a,b)
+
+d = a+b+c
+print(d)
+print(d+a)
