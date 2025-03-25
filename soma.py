@@ -7,5 +7,6 @@ print(c)
 print(a,b)
 
 d = a+b+c
+d = d*2
 print(d)
 print(d+a)
