@@ -10,3 +10,5 @@ d = a+b+c
 d = d*2
 print(d)
 print(d+a)
+
+e  = 20
